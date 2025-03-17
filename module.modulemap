@@ -1,0 +1,3 @@
+module ATmega1284 {
+  export *
+}

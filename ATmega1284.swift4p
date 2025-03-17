@@ -1,0 +1,19 @@
+files:
+- ATmega1284+ADC.swift
+- ATmega1284+CPU.swift
+- ATmega1284+Pads.swift
+- ATmega1284+Peripherals.swift
+- ATmega1284+Porta.swift
+- ATmega1284+Portb.swift
+- ATmega1284+Portc.swift
+- ATmega1284+Portd.swift
+- ATmega1284+Spi.swift
+- ATmega1284+Tc0.swift
+- ATmega1284+Tc1.swift
+- ATmega1284+Tc2.swift
+- ATmega1284+Tc3.swift
+- ATmega1284+Twi.swift
+- ATmega1284+Usart0.swift
+- ATmega1284+Usart1.swift
+- ATmega1284.swift
+- module.modulemap
